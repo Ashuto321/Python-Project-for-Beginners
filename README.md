@@ -1,4 +1,4 @@
-Welcome to my GitHub
+Welcome to my GitHub!
 
 I'm a passionate Python developer 🐍 building a variety of projects — from simple automation scripts to full-blown AI applications. This space is where I learn, experiment, and share all things Pythonic.
 
